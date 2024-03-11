@@ -186,3 +186,16 @@ margin-bottom: 25px;
     position: relative;
     top: 50px;
 }
+.input {
+    display: none;
+}
+.label{
+    height: 100px;
+    width: 150px;
+    border-radius: 6px;
+    border: 1px dashed #999;
+}
+label: hover{
+color: #de0611;
+    border: 1px dashe #de0611;
+}
